@@ -3,6 +3,7 @@
 ## Pendahuluan
 
 Proyek ini bertujuan untuk mengklasifikasikan daerah ke dalam zona COVID (MERAH, ORANGE, atau KUNING) berdasarkan 14 parameter (C1-C14) menggunakan algoritma K-Nearest Neighbors (KNN). Klasifikasi dilakukan dengan menggunakan dataset training berisi 100 daerah dengan zona yang telah diketahui untuk memprediksi zona dari 5 daerah baru.
+Proyek ini hanya berupa Tugas Kampus Asesmen 09_K - Klasifikasi.docx
 
 ## Dataset
 
